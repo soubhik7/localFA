@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileUnzipFA_MSI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b84f973dd480979dabf6bb1bd9dfd58fb1cf905")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileUnzipFA_MSI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileUnzipFA_MSI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
